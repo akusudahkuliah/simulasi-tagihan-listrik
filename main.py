@@ -1,3 +1,3 @@
-from modules.gui import tampilkan_gui
+from modules.gui import start_app
 
-tampilkan_gui()
+start_app()

@@ -1,0 +1,11 @@
+APP_TITLE = "Simulasi Tagihan Listrik"
+
+WINDOW_WIDTH = 700
+WINDOW_HEIGHT = 500
+
+TARIF = {
+    "R1 900 VA": 1352,
+    "R1 1300 VA": 1444.70,
+    "R1 2200 VA": 1444.70,
+    "R2 3500 VA": 1699.53
+}
